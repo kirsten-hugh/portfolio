@@ -61,5 +61,13 @@ A cursory examination of the datasets reveal certain trends such as players with
 - The gradient of orange is each player’s Field Goal Percentage (measure of efficiency; how many times players are scoring points (excluding free throws) out of 100). The darker shade of orange indicating that those players are more efficient.
 - A red line was added at 0 to delineate and emphasize the baseline whether players were either over the line, thus overperforming or underperforming, marked below the line.
 
+#### Points Scored by State:
+<img src="images/NBA_Points_State.png"/>
+- A majority of the top 100 players are from the US - 76/100 players. California has the most amount of points scored: 207.1 points and 12 players from here. This is followed by Texas with 7 players scoring 135.1 points. Finally, with the third largest amount of points is Georgia with 5 players scoring 90.5 points of this season. 
+- A stepped color key was chosen instead of a gradient for these maps to make cutoffs of points scored less ambiguous.
+
+
+
+
 
 
