@@ -29,7 +29,7 @@
 
 ### 2023 Top 100 NBA Players Visualizations
 - I completed this project my final semester of graduate school, Decemeber 2023, for a data visualization class.
-- I created all the visualizations in Tableau with input from my team and designed the presentation (slides can be found in my NBA Project GitHub folder).
+- I created all the visualizations in Tableau with input from my team and designed the presentation (for a more in-depth explanation of the visualizations, slides can be found in my NBA Project GitHub folder).
   
 #### Objective:
 This project aims to conduct a detailed analysis of the top 100 NBA players’ performance,
@@ -52,13 +52,14 @@ medicine and longevity-focused practices have improved dramatically in recent ye
 #### Observations: 
 A cursory examination of the datasets reveal certain trends such as players within certain age groups exhibiting distinct patterns in their performance metrics. For example, younger players may show higher scores in metrics related to physical athleticism, such as points per game, rebounds, or steals. In contrast, older players might demonstrate superiority in strategic aspects of the game, like assists-to-turnover ratio or three-point shooting accuracy. We also may witness that projections to real life performance may vary quite a bit between generations of players. Older players might be expected to regress significantly while on the other hand younger players might be expected to improve.
 
-<a href="https://public.tableau.com/views/NBA_17244393402170/1_OverperformingUnderperforming?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> View My 2023 Top 100 NBA Players Visualizations on Tableau Public</a>
+## <a href="https://public.tableau.com/views/NBA_17244393402170/1_OverperformingUnderperforming?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> View My 2023 Top 100 NBA Players Visualizations on Tableau Public</a>
+#### Below are a few of the visualizations I created for this project
+#### Performance:
+<img src="images/NBA_Performance.png"/>
 
-<img src="images/NBA_Data_Definitions.png"/>
+- Points Over Projection vs Age is visualization that shows how much are players are overperforming/underperforming compared to what experts thought they would do this season. Here the players who are majorly overperforming their projections are younger players.
+- The gradient of orange is each player’s Field Goal Percentage (measure of efficiency; how many times players are scoring points (excluding free throws) out of 100). The darker shade of orange indicating that those players are more efficient.
+- A red line was added at 0 to delineate and emphasize the baseline whether players were either over the line, thus overperforming or underperforming, marked below the line.
 
-- Field Goal Percentage is probably the most important indicator of efficiency, as it shows how many times players are scoring points out of a hundred (excluding free throws). 
-- 3-Point Goals are points scored from a farther distance, which are worth 3 instead of 2. 
-- Free throw percentage is the amount of times players score free throws out of a hundred. 
-- Assists are the passes to the players who end up scoring, blocks and steals are self-explanatory, usually related to defensive-role players, and turnovers are the times where players lose the ball to the other team.
 
 
