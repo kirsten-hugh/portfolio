@@ -54,4 +54,11 @@ A cursory examination of the datasets reveal certain trends such as players with
 
 <a href="https://public.tableau.com/views/NBA_17244393402170/1_OverperformingUnderperforming?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> View My 2023 Top 100 NBA Players Visualizations on Tableau Public</a>
 
+<img src="images/NBA_Data_Definitions.png"/>
+
+- Field Goal Percentage is probably the most important indicator of efficiency, as it shows how many times players are scoring points out of a hundred (excluding free throws). 
+- 3-Point Goals are points scored from a farther distance, which are worth 3 instead of 2. 
+- Free throw percentage is the amount of times players score free throws out of a hundred. 
+- Assists are the passes to the players who end up scoring, blocks and steals are self-explanatory, usually related to defensive-role players, and turnovers are the times where players lose the ball to the other team.
+
 
