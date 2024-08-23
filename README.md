@@ -2,29 +2,6 @@
 
 #### Technical Skills: Python, R, Java, SAS, SQL, MySQL, Tableau, Power BI, Microsoft Office (Advanced Excel), Salesforce, Sharepoint
 
-
-## Education
-- **University of Florida** (_December 2023_)
-  - *M.S., Information Systems and Operations Management* 
-    - Track: Data Science
-- **University of Florida** (_May 2022_)
-  - *B.S., Business Administration, Information Systems*
-    - Minor: Asian Studies
-    - Full-Ride Machen Florida Opportunity Scholarship & Bright Futures Academic Scholarship Recipient
-  
-## Work Experience
-**Tampa Electric Company (TECO)** | (_October 2022 – May 2023_)
-- **Meter Analytics Project: Lead Data Scientist** Gainesville, FL
-  - In MS-ISOM Program's Analytics Practicum, led a data analytics consulting team. Following CRISP-DM, analyzed data from over 800,000 AMI meters, assessing energy usage patterns to develop machine learning algorithms.
-
-**The Selling Factory** | (_July 2021 – December 2021_)
-- **Sales Development Representative Intern** Gainesville, FL
-  - Collaborated on a B2B sales team, managing clients in Salesforce. Delivered weekly call campaign performance metrics of objectives and sales forecasts to supervisors and team.
-
-**University of Florida, Infinity Hall** | (_June 2019 – April 2022_)
-- **Administrative Specialist** Gainesville, FL
-  - Directed administration of main student resident hall service desk. Oversight liaison for all student halls.
-
 ## Projects
 
 ### 2023 Top 100 NBA Players Visualizations
@@ -53,7 +30,7 @@ medicine and longevity-focused practices have improved dramatically in recent ye
 A cursory examination of the datasets reveal certain trends such as players within certain age groups exhibiting distinct patterns in their performance metrics. For example, younger players may show higher scores in metrics related to physical athleticism, such as points per game, rebounds, or steals. In contrast, older players might demonstrate superiority in strategic aspects of the game, like assists-to-turnover ratio or three-point shooting accuracy. We also may witness that projections to real life performance may vary quite a bit between generations of players. Older players might be expected to regress significantly while on the other hand younger players might be expected to improve.
 
 ## <a href="https://public.tableau.com/views/NBA_17244393402170/1_OverperformingUnderperforming?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> View My 2023 Top 100 NBA Players Visualizations on Tableau Public</a>
-#### Below are a few of the visualizations I created for this project
+#### Below are a couple of the visualizations I created for this project ----
 #### Performance:
 <img src="images/NBA_Performance.png"/>
 
@@ -63,6 +40,7 @@ A cursory examination of the datasets reveal certain trends such as players with
 
 #### Points Scored by State:
 <img src="images/NBA_Points_State.png"/>
+
 - A majority of the top 100 players are from the US - 76/100 players. California has the most amount of points scored: 207.1 points and 12 players from here. This is followed by Texas with 7 players scoring 135.1 points. Finally, with the third largest amount of points is Georgia with 5 players scoring 90.5 points of this season. 
 - A stepped color key was chosen instead of a gradient for these maps to make cutoffs of points scored less ambiguous.
 
