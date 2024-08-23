@@ -6,7 +6,7 @@
 
 ### 2023 Top 100 NBA Players Visualizations
 - I completed this project my final semester of graduate school, Decemeber 2023, for a data visualization class.
-- I created all the visualizations in Tableau with input from my team and designed the presentation (for a more in-depth explanation of the visualizations, slides can be found in my NBA Project GitHub folder).
+- For a more in-depth explanation of the visualizations, a PowerPoint can be found in my NBA Project GitHub folder.
   
 #### Objective:
 This project aims to conduct a detailed analysis of the top 100 NBA players’ performance,
@@ -24,8 +24,7 @@ for industry outsiders and plenty of other real life applicable relevant uses.
 
 #### Preliminary Analysis
 #### Hypothesis: 
-Age correlates with certain improvements or declines in specific statistical performance categories. For instance, older players might show a pattern of underperforming in some projected performance categories for the season. However we also hypothesize that the negative impact of old age is overestimated in projections as modern
-medicine and longevity-focused practices have improved dramatically in recent years. 
+Age correlates with certain improvements or declines in specific statistical performance categories. For instance, older players might show a pattern of underperforming in some projected performance categories for the season. However, the negative impact of old age is overestimated in projections as modern medicine and longevity-focused practices have improved dramatically in recent years. 
 #### Observations: 
 A cursory examination of the datasets reveal certain trends such as players within certain age groups exhibiting distinct patterns in their performance metrics. For example, younger players may show higher scores in metrics related to physical athleticism, such as points per game, rebounds, or steals. In contrast, older players might demonstrate superiority in strategic aspects of the game, like assists-to-turnover ratio or three-point shooting accuracy. We also may witness that projections to real life performance may vary quite a bit between generations of players. Older players might be expected to regress significantly while on the other hand younger players might be expected to improve.
 
