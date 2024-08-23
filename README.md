@@ -28,11 +28,9 @@
 ## Projects
 
 ### 2023 Top 100 NBA Players Visualizations
-Chosen Datasets & Sources
-1. Main Data Set: Top 100 NBA Players Projections & Current Performance Statistics for 2023 - 2024: <a href="https://hashtagbasketball.com/fantasy-basketball-rankings"> Hashtag Basketball</a>
-2. 2022-2023 NBA Player Demographics: <a href="https://www.kaggle.com/datasets/justinas/nba-players-data"> Kaggle</a>
-
-
+- I completed this project my final semester of graduate school, Decemeber 2023, for a data visualization class.
+- I created all the visualizations in Tableau with input from my team and designed the presentation (slides can be found in my NBA Project GitHub folder).
+  
 #### Objective:
 This project aims to conduct a detailed analysis of the top 100 NBA players’ performance,
 focusing specifically on the correlation between player demographics (e.g. age and height)
@@ -42,6 +40,10 @@ enthusiasts and analysts but also holds significant value in the domains of both
 management and betting industries. Understanding the impact of demographics on
 performance can aid in player development, team composition internally, betting strategies
 for industry outsiders and plenty of other real life applicable relevant uses.
+
+#### Chosen Datasets & Sources:
+1. Main Data Set: Top 100 NBA Players Projections & Current Performance Statistics for 2023 - 2024: <a href="https://hashtagbasketball.com/fantasy-basketball-rankings"> Hashtag Basketball</a>
+2. 2022-2023 NBA Player Demographics: <a href="https://www.kaggle.com/datasets/justinas/nba-players-data"> Kaggle</a>
 
 #### Preliminary Analysis
 #### Hypothesis: 
