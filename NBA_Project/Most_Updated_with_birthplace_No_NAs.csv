@@ -1,0 +1,101 @@
+player_name,City,State,team_abbreviation.x,FG.,FT.,FT.ATTEMPTS,X3.PTs,Points,Rebounds,Assists,Steals,Blocks,Turnovers,age,player_height,player_weight,college,country,draft_year,years_in_nba,draft_round,draft_number
+Shai Gilgeous-Alexander,NA,NA,OKC,0.534,0.936,7.4,1.3,30.4,6.1,6.3,2.4,0.9,2.3,24,198.12,88.45044,Kentucky,Canada,2018,5,1,11
+Joel Embiid,NA,NA,PHI,0.498,0.877,11.8,1.1,32,11.3,6.6,1,1.9,3.7,29,213.36,127.00576,Kansas,Cameroon,2014,9,1,3
+Nikola Jokic,NA,NA,DEN,0.568,0.793,6,1.4,28.8,13.4,8.9,1.1,0.8,3.2,28,210.82,128.820128,None,Serbia,2014,9,2,41
+Tyrese Haliburton,Oshkosh,Wisconsin,IND,0.518,0.915,4.7,3.8,25.9,3.7,11.9,0.9,0.7,2.5,23,195.58,83.91452,Iowa State,USA,2020,3,1,12
+Kevin Durant,Washington,DC,PHO,0.533,0.891,8.5,2.3,31.4,7.1,5.5,0.7,1.2,4,34,208.28,108.86208,Texas,USA,2007,16,1,2
+Anthony Davis,Chicago,Illinois,LAL,0.546,0.849,5.8,0.2,21.8,12.1,3.4,1.1,2.8,2.4,30,208.28,114.758776,Kentucky,USA,2012,11,1,1
+Devin Booker,Grand Rapids,Michigan,PHO,0.497,0.917,8.1,2.2,29.4,5.4,8.9,0.8,0.6,3.1,26,195.58,93.439952,Kentucky,USA,2015,8,1,13
+Stephen Curry,Akron,Ohio,GS,0.484,0.938,6.4,5.3,29.7,4.6,3.9,0.8,0.1,3.7,35,187.96,83.91452,Davidson,USA,2009,14,1,7
+Chet Holmgren,Minneapolis,Minnesota,OKC,0.564,0.881,4.2,1.8,18.1,8,2.5,0.9,2.3,2.1,21,216,88.5,Gonzaga,USA,2022,1,1,2
+Luka Doncic,NA,NA,DAL,0.487,0.765,7.4,3.8,30.5,7.9,7.8,1.3,0.4,3.9,24,200.66,104.32616,None,Slovenia,2018,5,1,3
+Donovan Mitchell,Elmsford,New York,CLE,0.45,0.883,5.8,3.1,27,4.9,5.3,1.8,0.5,2.3,26,185.42,97.52228,Louisville,USA,2017,6,1,13
+Tyrese Maxey,Dallas,Texas,PHI,0.46,0.894,5.6,3.3,26.6,4.8,6.9,0.8,0.7,1.4,22,187.96,90.7184,Kentucky,USA,2020,3,1,21
+LeBron James,Akron,Ohio,LAL,0.563,0.687,5.8,2.2,25.1,7.5,6.5,1.5,0.8,3.6,38,205.74,113.398,None,USA,2003,20,1,1
+Jayson Tatum,St. Louis,Missouri,BOS,0.494,0.802,6.5,3.2,28.1,8.9,4.1,1.2,0.4,3.2,25,203.2,95.25432,Duke,USA,2017,6,1,3
+Paul George,Palmdale,California,LAC,0.452,0.934,4.9,3.1,24.2,6.3,3.6,1.9,0.2,2.7,33,203.2,99.79024,Fresno State,USA,2010,13,1,10
+Trae Young,Lubbock,Texas,ATL,0.402,0.877,9.2,3.1,26.5,3,10.4,1.6,0,3.9,24,185.42,74.389088,Oklahoma,USA,2018,5,1,5
+Bam Adebayo,Newark,New Jersey,MIA,0.532,0.825,7.4,0.1,22.7,10.4,3.9,1.4,1,2.6,25,205.74,115.66596,Kentucky,USA,2017,6,1,14
+LaMelo Ball,Chino Hills,California,CHA,0.443,0.857,4.2,3.5,24.7,5.5,8.2,1.4,0.3,3.9,21,200.66,81.64656,None,USA,2020,3,1,3
+Anthony Edwards,Atlanta,Georgia,MIN,0.466,0.876,6.1,2.5,26.6,5.9,5.3,1.4,0.4,3.3,21,193.04,102.0582,Georgia,USA,2020,3,1,1
+Scottie Barnes,West Palm Beach,Florida,TOR,0.466,0.754,3.8,1.9,19,9.1,5.6,1.6,1.3,2.5,21,203.2,102.0582,Florida State,USA,2021,2,1,4
+Victor Wembanyama,NA,NA,SA,0.43,0.825,4.4,1.5,19.2,9.5,2.6,1.3,2.6,3.6,19,223,95,None,France,2023,0,1,1
+Damian Lillard,Oakland,California,MIL,0.411,0.922,9.3,2.9,25.6,4.5,6.3,1.1,0.1,2.5,32,187.96,88.45044,Weber State,USA,2012,11,1,6
+Lauri Markkanen,NA,NA,UTA,0.484,0.84,5,3.3,23.7,8.7,1.1,1.1,0.9,1.3,26,213.36,108.86208,Arizona,Finland,2017,6,1,7
+Karl-Anthony Towns,Edison,New Jersey,MIN,0.506,0.908,4.1,2,21.8,8.9,2.9,1,0.8,2.7,27,213.36,112.490816,Kentucky,USA,2015,8,1,1
+De'Aaron Fox,New Orleans,Louisiana,SAC,0.48,0.757,7,3.2,29.9,4.3,6,1.6,0.3,1.9,25,190.5,83.91452,Kentucky,USA,2017,6,1,5
+Kyrie Irving,NA,NA,DAL,0.478,0.89,3.5,2.9,24.4,4.2,5.5,1.2,0.3,1.6,31,187.96,88.45044,Duke,Australia,2011,12,1,1
+Brook Lopez,North Hollywood,California,MIL,0.506,0.825,1.7,1.8,13.3,5.1,1.1,0.9,2.9,0.8,35,215.9,127.912944,Stanford,USA,2008,15,1,10
+Domantas Sabonis,Portland,Oregon,SAC,0.62,0.634,6.2,0.5,19.9,12.3,7,0.9,1,3.4,27,215.9,108.86208,Gonzaga,USA,2016,7,1,11
+Miles Bridges,Flint,Michigan,CHA,0.507,0.821,5.6,1.8,21.2,8.8,2.8,1.4,0.4,2,25,201,102,Michigan State,USA,2018,5,1,12
+Kristaps Porzingis,NA,NA,BOS,0.547,0.801,5.3,1.6,18.9,6.7,1.9,0.7,1.7,1.3,27,220.98,108.86208,None,Latvia,2015,8,1,4
+Desmond Bane,Richmond,Indiana,MEM,0.442,0.871,3.9,3.3,23.6,4.4,5,1.3,0.6,2.7,25,195.58,97.52228,TCU,USA,2020,3,1,30
+Nicolas Claxton,Greenville,South Carolina,BKN,0.667,0.624,2.3,0,12.3,8.3,1.7,0.7,2.7,0.9,24,210.8,97.5,Georgia,USA,2019,4,2,31
+Myles Turner,Bedford,Texas,IND,0.513,0.79,4.2,1.5,16.8,7.6,1.4,0.7,2.2,1.6,27,210.82,113.398,Texas,USA,2015,8,1,11
+Kawhi Leonard,Los Angeles,California,LAC,0.452,0.847,4.1,2.2,21.1,5.6,3.4,1.7,0.7,1.6,32,200.66,102.0582,San Diego State,USA,2011,12,1,15
+Evan Mobley,San Diego,California,CLE,0.558,0.768,3.5,0.1,16.3,10.4,3.2,0.8,1.6,2.2,22,210.82,97.52228,Southern California,USA,2021,2,1,3
+Giannis Antetokounmpo,NA,NA,MIL,0.592,0.632,10.4,0.4,29.9,10.7,4.6,1.2,1.2,4.1,28,213.36,110.222856,None,Greece,2013,10,1,15
+CJ McCollum,Canton,Ohio,NO,0.44,0.741,5.2,3.2,21.7,4.8,5.7,1.5,0.8,1.3,31,190.5,86.18248,Lehigh,USA,2013,10,1,10
+Jimmy Butler,Houston,Texas,MIA,0.462,0.877,7.6,1.2,20.7,5,4,1.3,0.6,1.7,33,200.66,104.32616,Marquette,USA,2011,12,1,30
+Herbert Jones,Tuscaloosa,Alabama,NO,0.517,0.857,2.8,1.2,11.5,4.1,2.7,1.9,1.4,1.5,24,200.66,93.439952,Alabama,USA,2021,2,2,35
+Tyler Herro,Greenfield,Wisconsin,MIA,0.45,0.879,3.1,3.1,22.9,5,4.6,1.4,0,2.5,23,195.58,88.45044,Kentucky,USA,2019,4,1,13
+Deandre Ayton,NA,NA,POR,0.593,0.79,1.2,0,13.3,11.1,1.6,1.4,0.8,2,24,213.36,113.398,Arizona,Bahamas,2018,5,1,1
+Dejounte Murray,Seattle,Washingon,ATL,0.449,0.855,3.4,2.2,20,4.4,5.7,1.6,0.3,2.5,26,195.58,81.64656,Washington,USA,2016,7,1,29
+Mikal Bridges,Philadelphia,Pennsylvania,BKN,0.474,0.856,4.4,2.1,21.8,5.9,3.9,1.1,0.4,2.4,26,198.12,94.800728,Villanova,USA,2018,5,1,10
+Alperen Sengün,NA,NA,HOU,0.567,0.636,3.9,0.7,20.2,9.1,5.6,0.9,0.7,2.8,21,211,110,Giresun,Turkey,2021,2,1,16
+Jalen Johnson,Wausau,Wisconsin,ATL,0.595,0.759,2.2,1.1,14.1,7.3,2.4,1.1,1,2,21,203.2,99.336648,Duke,USA,2021,2,1,20
+Cam Thomas,NA,NA,BKN,0.479,0.85,5.9,2.1,26.9,3.8,2.1,0.9,0.6,1.3,21,190.5,95.25432,Louisiana State,Japan,2021,2,1,27
+Jalen Duren,Sharon Hill,Pennsylvania,DET,0.609,0.667,2.1,0,12.6,11.2,3.2,0.7,1.5,3,19,210.82,113.398,Memphis,USA,2022,1,1,13
+Jalen Brunson,New Brunswick,New Jersey,NY,0.461,0.829,4.8,3.2,24.9,3.5,5.2,0.9,0.1,1.9,26,187.96,86.18248,Villanova,USA,2018,5,2,33
+James Harden,Los Angeles,California,LAC,0.442,0.838,4.5,2,14.1,4.6,6.2,1.4,0.5,2.4,33,195.58,99.79024,Arizona State,USA,2009,14,1,3
+Tobias Harris,Islip,New York,PHI,0.527,0.908,3.7,1.1,18.6,6.2,2.7,0.8,0.4,1.6,30,200.66,102.511792,Tennessee,USA,2011,12,1,19
+Mark Williams,Norfolk,Virginia,CHA,0.701,0.697,3.7,0,13.5,9.9,1.3,0.9,1.1,1,21,213.36,108.86208,Duke,USA,2022,1,1,15
+Kyle Kuzma,Flint,Michigan,WAS,0.471,0.824,3.4,2.4,23.4,6.2,4.8,0.3,0.6,2.2,27,205.74,100.243832,Utah,USA,2017,6,1,27
+Fred VanVleet,Rockford,Illinois,HOU,0.389,0.881,2.4,3.1,16.6,4.1,9,0.7,0.4,1.6,29,182.88,89.357624,Wichita State,USA,Undrafted,0,Undrafted,Undrafted
+Derrick White,Parker,Colorado,BOS,0.456,0.834,3.4,2.1,13.9,3.8,5,1,0.9,1.9,28,193.04,86.18248,Colorado,USA,2017,6,1,29
+Jarrett Allen,San Diego,California,CLE,0.671,0.755,4.1,0,13.9,7.7,2.3,0.6,1.3,1.9,25,205.74,110.222856,Texas,USA,2017,6,1,22
+Zach LaVine,Renton,Washingon,CHI,0.454,0.867,4.8,2.5,22.1,5,3.4,0.9,0.2,2.1,28,195.58,90.7184,UCLA,USA,2014,9,1,13
+Jonas Valanciunas,NA,NA,NO,0.535,0.798,2.7,0.7,13.1,8.9,2.4,0.4,1.4,1.2,31,210.82,120.20188,None,Lithuania,2011,12,1,5
+Darius Garland,Gary,Indiana,CLE,0.486,0.829,4.9,1.5,19.4,2.7,5.8,1.4,0.3,4.3,23,185.42,87.089664,Vanderbilt,USA,2019,4,1,5
+Bogdan Bogdanovic,NA,NA,ATL,0.467,0.908,1.3,3.1,15.8,3,2.5,1.4,0.4,1.4,30,195.58,102.0582,None,Serbia,2014,9,1,27
+Jerami Grant,Portland,Oregon,POR,0.451,0.815,6.1,2.7,23.4,4,2.3,0.8,0.9,2.4,29,203.2,95.25432,Syracuse,USA,2014,9,2,39
+Daniel Gafford,El Dorado,Arkansas,WAS,0.696,0.657,2.1,0,9.7,7.7,1.3,0.7,2,1.3,24,208.28,106.140528,Arkansas,USA,2019,4,2,38
+Jusuf Nurkic,NA,NA,PHO,0.453,0.746,3.5,0.6,10.5,9,3.9,1.2,1.3,1.9,28,213.36,131.54168,None,Bosnia and Herzegovina,2014,9,1,16
+Max Strus,Hickory Hills,Illinois,CLE,0.438,0.83,1.4,2.9,14.4,5.8,3.8,0.9,0.6,1.7,27,195.58,97.52228,DePaul,USA,Undrafted,0,Undrafted,Undrafted
+Nikola Vucevic,NA,NA,CHI,0.462,0.832,1.7,0.9,15.8,10.2,3.1,0.9,0.6,1.8,32,208.28,117.93392,Southern California,Switzerland,2011,12,1,16
+DeMar DeRozan,Compton,California,CHI,0.448,0.804,6.9,0.9,21.5,3.2,4.5,1.1,0.9,1.1,33,198.12,99.79024,Southern California,USA,2009,14,1,9
+Ausar Thompson,Oakland,California,DET,0.46,0.696,2.5,0.2,11.4,9.4,3.1,1.1,1.6,2.2,20,198.1,93,None,USA,2023,0,1,5
+D'Angelo Russell,Louisville,Kentucky,LAL,0.472,0.772,2.7,2.2,16.7,3.4,6.2,0.6,0.6,1.8,27,193.04,87.543256,Ohio State,USA,2015,8,1,2
+Michael Porter Jr.,Columbia,Missouri,DEN,0.462,0.763,1.4,2.9,16.9,7.8,1.4,0.4,0.8,1.2,25,208.28,98.883056,Missouri,USA,2018,5,1,14
+Franz Wagner,NA,NA,ORL,0.455,0.825,3.7,1.5,19.5,5.5,3.2,1.2,0.4,1.9,21,208.28,99.79024,Michigan,Germany,2021,2,1,8
+Dennis Schröder,NA,NA,TOR,0.455,0.875,3.3,1.9,16.8,2.8,6.5,0.9,0.1,1.9,30,185,78,None,Germany,2013,10,1,17
+Brandon Ingram,Kinston,North Carolina,NO,0.502,0.761,4.5,1.3,24.6,5.2,5.1,0.6,0.1,2.7,25,203.2,86.18248,Duke,USA,2016,7,1,2
+Jakob Poeltl,NA,NA,TOR,0.728,0.485,1.9,0,11.3,8.5,2.4,0.9,1,1.8,27,215.9,111.13004,Utah,Austria,2016,7,1,9
+Jaren Jackson Jr.,Plainfield,New Jersey,MEM,0.413,0.813,6.4,1.5,19.4,6.1,1.9,0.6,1.6,2,23,208.28,109.769264,Michigan State,USA,2018,5,1,4
+Jalen Suggs,Saint Paul,Minnesota,ORL,0.435,0.833,3,1.6,12.4,4,2.7,1.9,0.5,1.9,22,195.58,92.98636,Gonzaga,USA,2021,2,1,5
+Alex Caruso,College Station,Texas,CHI,0.567,0.778,1.8,1.6,9.8,3.6,2.2,1.3,0.8,1,29,195.58,84.368112,Texas A&M,USA,Undrafted,0,Undrafted,Undrafted
+Jalen Williams,Denver,Colorado,OKC,0.518,0.878,3.9,1.1,17.5,4.1,3.5,0.8,0.2,2.2,22,195.58,95.707912,Santa Clara,USA,2022,1,1,12
+Cade Cunningham,Arlington,Texas,DET,0.407,0.893,4.4,1.9,22.2,3.7,7.1,0.8,0.3,4.5,21,200.66,99.79024,Oklahoma State,USA,2021,2,1,1
+Zach Collins,Las Vegas,Nevada,SA,0.503,0.79,2.8,1.1,14.1,6.3,3.8,0.7,0.8,2.8,25,210.82,113.398,Gonzaga,USA,2017,6,1,10
+Marcus Smart,Flower Mound,Texas,MEM,0.429,0.812,1.9,1.6,12.5,2.5,5,2,0.4,3.4,29,193.04,99.79024,Oklahoma State,USA,2014,9,1,6
+Chris Paul,Winston-Salem,North Carolina,GS,0.397,0.927,1.7,1.2,9.3,3.8,7.7,1.4,0.1,1.2,38,182.88,79.3786,Wake Forest,USA,2005,18,1,4
+Jrue Holiday,Chatsworth,California,BOS,0.42,0.794,1.6,1.5,12.3,7.4,4.9,0.6,1,2.1,33,195.58,92.98636,UCLA,USA,2009,14,1,17
+Eric Gordon,Indianapolis,Indiana,PHO,0.469,0.784,0.9,2.9,14.9,2.1,3.1,1,0.6,1.5,34,190.5,97.52228,Indiana,USA,2008,15,1,7
+Mike Conley,Fayetteville,Arkansas,MIN,0.476,1,0.9,2.1,10.4,2.8,5.8,0.9,0.1,0.9,35,185.42,79.3786,Ohio State,USA,2007,16,1,4
+Rudy Gobert,NA,NA,MIN,0.585,0.589,5.3,0,12.1,11.3,1.3,0.6,2.2,1.8,31,215.9,117.026736,None,France,2013,10,1,27
+Devin Vassell,Suwanee,Georgia,SA,0.494,0.75,3,2.7,18.1,3.4,2.8,1,0.1,1.3,22,195.58,90.7184,Florida State,USA,2020,3,1,11
+Kentavious Caldwell-Pope,Thomaston,Georgia,DEN,0.442,0.949,2.2,1.6,11.2,2,2.7,1.6,0.5,1.3,30,195.58,92.532768,Georgia,USA,2013,10,1,8
+Austin Reaves,Newark,Arkansas,LAL,0.46,0.843,3.6,1.3,13.9,4.9,5.1,1.1,0.1,2.5,25,195.58,89.357624,Oklahoma,USA,Undrafted,0,Undrafted,Undrafted
+Jaylen Brown,Marietta,Georgia,BOS,0.446,0.713,3.9,2.4,21.4,4.8,3.4,1.1,0.5,2.4,26,198.12,101.151016,California,USA,2016,7,1,3
+Pascal Siakam,NA,NA,TOR,0.491,0.727,4.9,0.9,20,6.8,5.3,0.8,0.2,2.6,29,203.2,104.32616,New Mexico State,Cameroon,2016,7,1,27
+Clint Capela,NA,NA,ATL,0.587,0.57,2.6,0,10.4,9.8,0.9,0.7,1.6,0.6,29,208.28,116.119552,None,Switzerland,2014,9,1,25
+Keldon Johnson,Chesterfield,Virginia,SA,0.465,0.701,2.9,2,16.6,6.2,4.3,0.8,0.3,1.2,23,195.58,99.79024,Kentucky,USA,2019,4,1,29
+Keegan Murray,Cedar Rapids,Iowa,SAC,0.39,0.851,1.5,2.1,13.2,6.2,2,1.4,0.6,1.2,22,203.2,102.0582,Iowa,USA,2022,1,1,4
+Kyle Lowry,Philadelphia,Pennsylvania,MIA,0.423,0.852,0.9,2.1,8.6,4.1,4.4,1.4,0.2,1.5,37,182.88,88.904032,Villanova,USA,2006,17,1,24
+Deni Avdija,NA,NA,WAS,0.519,0.825,1.7,1.1,12.1,5.5,3.5,0.9,0.3,1.6,22,205.74,95.25432,None,Israel,2020,3,1,9
+OG Anunoby,Jefferson City,Missouri,TOR,0.484,0.609,2.2,2.6,15.5,4.3,2.2,1,0.7,1.8,26,200.7,105,Indiana,USA,2017,6,1,23
+Onyeka Okongwu,Los Angeles,California,ATL,0.585,0.913,2.2,0.2,8.7,6.6,1.4,0.7,0.9,0.9,22,205.74,108.86208,Southern California,USA,2020,3,1,6
+Jabari Smith Jr.,Fayetteville,Georgia,HOU,0.5,0.735,1.4,1.8,13.2,7.7,1.3,0.6,0.6,1.3,20,210.82,99.79024,Auburn,USA,2022,1,1,3
+Paolo Banchero,Seattle,Washingon,ORL,0.488,0.651,6.2,1.4,19.8,6.5,4.6,1.2,0.6,3.2,20,208.28,113.398,Duke,USA,2022,1,1,1
+John Collins,Layton,Utah,UTA,0.495,0.725,2.8,1.5,14.4,8.4,0.8,0.6,0.8,1.2,25,205.74,102.511792,Wake Forest,USA,2017,6,1,19
+Buddy Hield,NA,NA,IND,0.463,0.864,0.4,3.1,13.6,2.9,2.6,0.6,0.6,1.6,30,193.04,99.79024,Oklahoma,Bahamas,2016,7,1,6
