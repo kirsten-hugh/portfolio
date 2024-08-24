@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist Portfolio
 
 #### Technical Skills: Python, R, Java, SAS, SQL, MySQL, Tableau, Power BI, Microsoft Office (Advanced Excel), Salesforce, Sharepoint
 
@@ -43,7 +43,11 @@ A cursory examination of the datasets reveal certain trends such as players with
 - A majority of the top 100 players are from the US - 76/100 players. California has the most amount of points scored: 207.1 points and 12 players from here. This is followed by Texas with 7 players scoring 135.1 points. Finally, with the third largest amount of points is Georgia with 5 players scoring 90.5 points of this season. 
 - A stepped color key was chosen instead of a gradient for these maps to make cutoffs of points scored less ambiguous.
 
-
+### NY Mets Analysis and Visualizations
+- I completed this as an exploratory Python project Feb 2024.
+- To view more visualizations from this project, the .ipynb file can be found in my NY Mets Project GitHub folder.
+  
+#### Objective:
 
 
 
