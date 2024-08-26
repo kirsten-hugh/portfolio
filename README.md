@@ -2,9 +2,9 @@
 
 #### Technical Skills: Python, R, Java, SAS, SQL, MySQL, Tableau, Power BI, Microsoft Office (Advanced Excel), Salesforce, Sharepoint
 
-## Projects
+# Projects
 
-### 2023 Top 100 NBA Players Visualizations
+## 2023 Top 100 NBA Players Visualizations
 - I completed this project my final semester of graduate school, Decemeber 2023, for a data visualization class.
 - For a more in-depth explanation of the visualizations, the Tableau file, and PowerPoint can be found in my
 ## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/NY_Mets_Project"> NBA Project GitHub folder</a>
@@ -44,13 +44,33 @@ A cursory examination of the datasets reveal certain trends such as players with
 - A majority of the top 100 players are from the US - 76/100 players. California has the most amount of points scored: 207.1 points and 12 players from here. This is followed by Texas with 7 players scoring 135.1 points. Finally, with the third largest amount of points is Georgia with 5 players scoring 90.5 points of this season. 
 - A stepped color key was chosen instead of a gradient for these maps to make cutoffs of points scored less ambiguous.
 
-### NY Mets Analysis and Visualizations
+## NY Mets Analysis and Visualizations
 - I completed this as an exploratory Python project Feb 2024.
 - To view more visualizations from this project, the .ipynb file can be found in my
 ## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/NY_Mets_Project"> NY Mets Project GitHub folder</a>
   
 #### Objective:
+This project aims to do an exploratory analysis of the New York Mets' games of the years 2022 and 2023, focusing on attendance. The goal is to discover trends and factors such as the opposing team being played and wins/losses' effects, if any, on in-person attendance to the games.
 
+#### Chosen Datasets & Sources:
+1. <a href="https://www.baseball-reference.com/teams/NYM/2022-schedule-scores.shtml#all_team_schedule"> 2022 Team Game-by-Game Schedule on Baseball Reference </a> 
+2. <a href=" https://www.baseball-reference.com/teams/NYM/2023-schedule-scores.shtml#all_team_schedule"> 2023 Team Game-by-Game Schedule on Baseball Reference </a>
 
+#### Time Series Analysis of NY Mets Attendance in 2022 and 2023:
+<img src="images/NBA_Points_State.png"/>
+<img src="images/NBA_Points_State.png"/>
+- Between 2022 and 2023 there were more poorly attended games in 2023 indicated by the more frequent drops in the 2023 time series. This could indicate that the NY Met's performed better in 2022 and thus had better overall attendance.
 
+#### Mean Attendance by Opposing Team:
+<img src="images/NBA_Points_State.png"/>
+- The NYY, LAD, and SEA were the top three opposing teams that brought in the highest attendance to Mets' games in 2022. This implies that these three teams are the Mets' top rivals.
+<img src="images/NBA_Points_State.png"/>
+- The NYY, LAD, and TOR were the top three opposing teams that brought in the highest attendance to Mets' games in 2023. This implies that these three teams are the Mets' top rivals this season. Between 2022 and 2023 we can infer that the Mets' biggest rivals are the NYY and the LAD because games against these teams brought in the highest attendence both years. Especially, the NYY having the top attended games implies a fierce rivalry as both teams are New York teams.
 
+#### Swarmplots of Win/Loss vs Attendance:
+<img src="images/NBA_Points_State.png"/>
+- For both 2022 and 2023, there were slightly more losses than wins for the NYM when there were very high attended games (about 45,000+ attendees). In 2022: 2 games were won and 4 were lost and in 2023: 2 games were won and 3 were lost for these very high attended games.
+
+- In 2022, there is a high volume of wins concentrated around mid-high attended games (about 35,000 - 38,000 attendees). While in 2023 the spread of the swarm between wins and losses is closer to an equal amount overall.
+
+- At a glance, there were more overall wins in 2022 than 2023. In both years there was an equal amount of win-walk-offs (6), but a higher number of loss-walk-offs in 2023 (increasing from 3 to 6 games L-wo).
