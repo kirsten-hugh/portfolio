@@ -88,6 +88,7 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 - Though in 2022, the opposite is not true for away games, where more games were actually won than lost - thus indicating an overall better performing season. While in 2023, significantly more games were lost than won at away games.
 - Additionally, for 2023, there is not a major increase between games won and lost at home - when games won at home in 2022 were roughly double the games lost at home.
 
+<br><br><br><br>
 
 # Case Study: A Social Media Strategy For Tech Talk
 - I completed this group project my during graduate school, in 2023, for a project management class.
