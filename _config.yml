@@ -1,7 +1,6 @@
 title: Kirsten Hugh
 logo: /images/Headshot KH.jpg
-description: <a href="https://www.linkedin.com/in/kirsten-hugh/">View My LinkedIn</a>
-Education
+description: Education
 - **University of Florida** (_December 2023_)
   - *M.S., Information Systems and Operations Management* 
     - Data Science Track
@@ -10,4 +9,6 @@ Education
     - Asian Studies Minor
     - Full-Ride Machen Florida Opportunity Scholarship 
     & Bright Futures Academic Scholarship Recipient
+    <a href="https://www.linkedin.com/in/kirsten-hugh/">View My LinkedIn</a>
+
 theme: jekyll-theme-minimal
