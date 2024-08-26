@@ -91,12 +91,14 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 <br><br><br><br>
 
 # Case Study: A Social Media Strategy For Tech Talk
-- I completed this group project my during graduate school, in 2023, for a project management class.
+- I completed this group project during graduate school, in 2023, for a project management class.
 - The full case study report, other diagrams, and the presentation file can be found in my
 ## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/Case_Study_Report"> Case Study Report GitHub folder</a> 
 
 #### Case Study Source:
 - <a href="https://www.hbsp.harvard.edu/product/W17432-PDF-ENG"> Tech Talk: Creating a Social Media Strategy on Harvard Business Publishing </a>
+
+#### Below are a few excerpts I worked on with my team for this case study ----
 
 #### Introduction:
 At about five years of age, Tech Talk has a relatively small social media presence. Dr.
