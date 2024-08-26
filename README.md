@@ -62,7 +62,7 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 
 #### Time Series Analysis of NY Mets Attendance in 2022 and 2023:
 <img src="images/NYM_ts_2022.png"/>
-<img src="images/NYM_ts_2022.png"/>
+<img src="images/NYM_ts_2023.png"/>
 - Between 2022 and 2023 there were more poorly attended games in 2023 indicated by the more frequent drops in the 2023 time series. This could indicate that the NY Met's performed better in 2022 and thus had better overall attendance.
 
 #### Mean Attendance by Opposing Team:
