@@ -6,7 +6,7 @@
 
 # 2023 Top 100 NBA Players Visualizations
 - I completed this project my final semester of graduate school, Decemeber 2023, for a data visualization class.
-- For a more in-depth explanation of the visualizations, the Tableau file, and PowerPoint can be found in my
+- For a more in-depth explanation of the visualizations, the Tableau file, and PowerPoint can be found in my <br>
 ## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/NY_Mets_Project"> NBA Project GitHub folder</a>
   
 #### Objective:
