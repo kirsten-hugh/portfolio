@@ -45,7 +45,8 @@ A cursory examination of the datasets reveal certain trends such as players with
 
 ### NY Mets Analysis and Visualizations
 - I completed this as an exploratory Python project Feb 2024.
-- To view more visualizations from this project, the .ipynb file can be found in my NY Mets Project GitHub folder.
+- To view more visualizations from this project, the .ipynb file can be found in my
+## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/NY_Mets_Project"> NY Mets Project GitHub folder.</a>
   
 #### Objective:
 
