@@ -112,7 +112,7 @@ The Work Breakdown Structure (WBS) (as seen below in Figure 2) encapsulates the
 determined and necessary steps for the completion of our Social Media Strategy. The project
 involves 7 primary activities, with a combined 22 sub-activities, bringing the total to 29 overall.
 
-<img src="images/NYM_WL.png"/>
+<img src="images/case_wbs.png"/>
 
 Step 1 is hiring a social media consultant, which will involve a thorough recruiting
 process (screening, contract, and onboarding), to get the individual situated for the role. Step 2
