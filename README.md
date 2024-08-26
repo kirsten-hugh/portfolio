@@ -81,11 +81,51 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 - In 2022, there is a high volume of wins concentrated around mid-high attended games (about 35,000 - 38,000 attendees). While in 2023 the spread of the swarm between wins and losses is closer to an equal amount overall.
 - At a glance, there were more overall wins in 2022 than 2023. In both years there was an equal amount of win-walk-offs (6), but a higher number of loss-walk-offs in 2023 (increasing from 3 to 6 games L-wo).
 
-#### Count of Wins/Loss for Home and Away Games
+#### Count of Wins/Loss for Home and Away Games:
 <img src="images/NYM_WL.png"/>
 
 - As predicted, across both years there are more wins than losses at home games, where the NYM are more comfortable playing (and have more fans supporting them in the stands).
 - Though in 2022, the opposite is not true for away games, where more games were actually won than lost - thus indicating an overall better performing season. While in 2023, significantly more games were lost than won at away games.
 - Additionally, for 2023, there is not a major increase between games won and lost at home - when games won at home in 2022 were roughly double the games lost at home.
+
+
+# Case Study: A Social Media Strategy For Tech Talk
+- I completed this group project my during graduate school, in 2023, for a project management class.
+- The full case study report, other diagrams, and the presentation file can be found in my
+## <a href="https://github.com/kirsten-hugh/portfolio/tree/main/Case_Study_Report"> Case Study Report GitHub folder</a> 
+
+#### Case Study Source:
+- <a href="https://www.hbsp.harvard.edu/product/W17432-PDF-ENG"> Tech Talk: Creating a Social Media Strategy on Harvard Business Publishing </a>
+
+#### Introduction:
+At about five years of age, Tech Talk has a relatively small social media presence. Dr.
+Khare, one of Tech Talk’s founding members, wants to change that current status, understanding
+that growth in social media presence is necessary for increasing traffic to Tech Talk. The aim of
+this project is to apply a strong social media strategy to help Tech Talk gain ample traffic
+directed from numerous social media platforms. Our objective is to create, perfect, and
+implement the social media strategy in 5 months within a budget of $100,000 for the consultant’s
+salary, advertisements, and influencer cooperation (with 10% of budget for unexpected expenses
+included).
+
+#### Planning Exerpt:
+The Work Breakdown Structure (WBS) (as seen below in Figure 2) encapsulates the
+determined and necessary steps for the completion of our Social Media Strategy. The project
+involves 7 primary activities, with a combined 22 sub-activities, bringing the total to 29 overall.
+
+<img src="images/NYM_WL.png"/>
+
+Step 1 is hiring a social media consultant, which will involve a thorough recruiting
+process (screening, contract, and onboarding), to get the individual situated for the role. Step 2
+involves analysis of market data, inclusive of preparing and metrics to utilize in evaluation of
+present opportunities. Step 3 focuses on designing advertisements, inclusive of review &
+approval for use. Step 4 is contracting social media influencers, a process that has similarities
+with step 1 for the consultant hiring process. Step 5 is content development, which involves
+revamping the current strategy through use of analyzed market data, and then a standard
+review/approval process. Step 6 develops advertisements for social media, with planning and
+deployment of content, a critical aspect of the plan. Step 7 is content review and evaluation,
+where end metrics will be evaluated per our success and acceptance criteria and any
+opportunities (weaknesses/problems) will be addressed. Should the deliverables of the project
+meet or exceed expectations, our focus will shift to the closing phase of the project lifecycle,
+where documentation and data will be collected and archived.
 
 
