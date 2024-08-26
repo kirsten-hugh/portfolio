@@ -69,7 +69,7 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 <img src="images/NYM_opp_team_2022.png"/>
 
 - The NYY, LAD, and SEA were the top three opposing teams that brought in the highest attendance to Mets' games in 2022. This implies that these three teams are the Mets' top rivals.
-- 
+  
 <img src="images/images/NYM_opp_team_2023.png"/>
 
 - The NYY, LAD, and TOR were the top three opposing teams that brought in the highest attendance to Mets' games in 2023. This implies that these three teams are the Mets' top rivals this season. Between 2022 and 2023 we can infer that the Mets' biggest rivals are the NYY and the LAD because games against these teams brought in the highest attendence both years. Especially, the NYY having the top attended games implies a fierce rivalry as both teams are New York teams.
