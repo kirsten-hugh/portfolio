@@ -44,6 +44,8 @@ A cursory examination of the datasets reveal certain trends such as players with
 - A majority of the top 100 players are from the US - 76/100 players. California has the most amount of points scored: 207.1 points and 12 players from here. This is followed by Texas with 7 players scoring 135.1 points. Finally, with the third largest amount of points is Georgia with 5 players scoring 90.5 points of this season. 
 - A stepped color key was chosen instead of a gradient for these maps to make cutoffs of points scored less ambiguous.
 
+<br><br><br><br>
+
 # NY Mets Analysis and Visualizations
 - I completed this as an exploratory Python project Feb 2024.
 - To view more visualizations from this project, the .ipynb file can be found in my
@@ -53,8 +55,8 @@ A cursory examination of the datasets reveal certain trends such as players with
 This project aims to do an exploratory analysis of the New York Mets' games of the years 2022 and 2023, focusing on attendance. The goal is to discover trends and factors such as the opposing team being played and wins/losses' effects, if any, on in-person attendance to the games.
 
 #### Chosen Datasets & Sources:
-1. <a href="https://www.baseball-reference.com/teams/NYM/2022-schedule-scores.shtml#all_team_schedule"> 2022 Team Game-by-Game Schedule on Baseball Reference </a> 
-2. <a href=" https://www.baseball-reference.com/teams/NYM/2023-schedule-scores.shtml#all_team_schedule"> 2023 Team Game-by-Game Schedule on Baseball Reference </a>
+1. <a href="https://www.baseball-reference.com/teams/NYM/2022-schedule-scores.shtml#all_team_schedule"> 2022 Team Game-by-Game Schedule on Baseball Reference</a> 
+2. <a href=" https://www.baseball-reference.com/teams/NYM/2023-schedule-scores.shtml#all_team_schedule"> 2023 Team Game-by-Game Schedule on Baseball Reference</a>
 
 #### Below are a few of the visualizations I created for this project ----
 
