@@ -70,7 +70,7 @@ This project aims to do an exploratory analysis of the New York Mets' games of t
 
 - The NYY, LAD, and SEA were the top three opposing teams that brought in the highest attendance to Mets' games in 2022. This implies that these three teams are the Mets' top rivals.
   
-<img src="images/images/NYM_opp_team_2023.png"/>
+<img src="images/NYM_opp_team_2023.png"/>
 
 - The NYY, LAD, and TOR were the top three opposing teams that brought in the highest attendance to Mets' games in 2023. This implies that these three teams are the Mets' top rivals this season. Between 2022 and 2023 we can infer that the Mets' biggest rivals are the NYY and the LAD because games against these teams brought in the highest attendence both years. Especially, the NYY having the top attended games implies a fierce rivalry as both teams are New York teams.
 
@@ -107,25 +107,19 @@ implement the social media strategy in 5 months within a budget of $100,000 for 
 salary, advertisements, and influencer cooperation (with 10% of budget for unexpected expenses
 included).
 
-#### Planning Exerpt:
+#### Planning Excerpt:
 The Work Breakdown Structure (WBS) (as seen below in Figure 2) encapsulates the
 determined and necessary steps for the completion of our Social Media Strategy. The project
 involves 7 primary activities, with a combined 22 sub-activities, bringing the total to 29 overall.
 
 <img src="images/case_wbs.png"/>
 
-Step 1 is hiring a social media consultant, which will involve a thorough recruiting
-process (screening, contract, and onboarding), to get the individual situated for the role. Step 2
-involves analysis of market data, inclusive of preparing and metrics to utilize in evaluation of
-present opportunities. Step 3 focuses on designing advertisements, inclusive of review &
-approval for use. Step 4 is contracting social media influencers, a process that has similarities
-with step 1 for the consultant hiring process. Step 5 is content development, which involves
-revamping the current strategy through use of analyzed market data, and then a standard
-review/approval process. Step 6 develops advertisements for social media, with planning and
-deployment of content, a critical aspect of the plan. Step 7 is content review and evaluation,
-where end metrics will be evaluated per our success and acceptance criteria and any
-opportunities (weaknesses/problems) will be addressed. Should the deliverables of the project
-meet or exceed expectations, our focus will shift to the closing phase of the project lifecycle,
-where documentation and data will be collected and archived.
+- Step 1 is hiring a social media consultant, which will involve a thorough recruiting process (screening, contract, and onboarding), to get the individual situated for the role.
+- Step 2 involves analysis of market data, inclusive of preparing and metrics to utilize in evaluation of present opportunities.
+- Step 3 focuses on designing advertisements, inclusive of review & approval for use.
+- Step 4 is contracting social media influencers, a process that has similarities with step 1 for the consultant hiring process.
+- Step 5 is content development, which involves revamping the current strategy through use of analyzed market data, and then a standard review/approval process.
+- Step 6 develops advertisements for social media, with planning and deployment of content, a critical aspect of the plan.
+- Step 7 is content review and evaluation, where end metrics will be evaluated per our success and acceptance criteria and any opportunities (weaknesses/problems) will be addressed. Should the deliverables of the project meet or exceed expectations, our focus will shift to the closing phase of the project lifecycle, where documentation and data will be collected and archived.
 
 
